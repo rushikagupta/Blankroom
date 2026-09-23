@@ -2,7 +2,7 @@
 
 A fully working photo editor. Every slider, curve, and panel works exactly as it should. There is just no way to open a photo.
 
-[Live demo →]
+[Live demo →] https://rushikagupta.github.io/Blankroom/
 
 ## What it is
 
